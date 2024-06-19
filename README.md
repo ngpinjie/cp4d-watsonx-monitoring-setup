@@ -1,5 +1,7 @@
 # cp4d-watsonx-monitoring-setup
-Scripts and instructions to enable monitoring for watsonx.data in IBM Cloud Pak for Data
+Scripts and instructions to enable monitoring for watsonx.data in IBM Cloud Pak for Data.
+
+Source: https://www.ibm.com/docs/en/watsonx/watsonxdata/1.1.x?topic=bpm-monitoring-watsonxdata-presto-jmx-metrics-grafana-in-red-hat-openshift-cluster
 
 # CP4D Watsonx Monitoring Setup
 
